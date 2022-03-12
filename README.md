@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It's set up to work with a [Firebase Backend](https://firebase.google.com), 
+& uses [Material UI](https://mui.com) for layout & styling, 
+as well as [React Router](https://reactrouter.com) for routing.
+
 ## Initialize
 
 Initalize/create a firebase backend by running:
